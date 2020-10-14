@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Test Demo Suite" parallel="classes" thread-count="3">
+    <test name="Selenium Course Suite tests">
+        <packages>
+            <package name="com.selenium.course.tests.*"/>
+        </packages>
+    </test>
+</suite>
