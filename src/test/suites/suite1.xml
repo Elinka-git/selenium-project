@@ -4,7 +4,9 @@
 <suite name="Test Demo Suite" parallel="classes" thread-count="3">
     <test name="Selenium Course Suite tests">
         <packages>
-            <package name="com.selenium.course.tests.*"/>
+            <package name="com.selenium.course.loginflow.*"/>
+            <package name="com.selenium.course.company.*"/>
+            <package name="com.selenium.course.util.*"/>
         </packages>
     </test>
 </suite>
