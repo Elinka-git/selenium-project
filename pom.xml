@@ -26,6 +26,7 @@
             	<suiteXmlFiles>
             		<suiteXmlFiles>testng.xml</suiteXmlFiles>
             		<suiteXmlFiles>suites-test-testng.xml</suiteXmlFiles>
+            		<suiteXmlFiles>suite1.xml</suiteXmlFiles>
             	</suiteXmlFiles>
             </configuration>
              </plugin>
